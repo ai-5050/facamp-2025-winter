@@ -1,0 +1,402 @@
+Name,Position,ClubName,Age,Height,Weight,Overall,Potential,FIFAMarketValue,FIFAWage,Foot,WeakFoot,SkillMoves,BodyType,MainPositionStatus,MarketValue
+M. Noble,CM,West Ham,32,"1,80 m",76,76,76,6000000,66000,Right,3,3,Normal,74.0,7000000
+R. Stearman,CB,Sheffield Utd.,32,"1,91 m",76,69,69,775000,14000,Right,3,2,Lean,68.0,1000000
+G. Hanley,CB,Norwich,27,"1,88 m",81,70,71,1800000,22000,Right,3,2,Normal,69.0,3000000
+P. Jagielka,CB,Sheffield Utd.,37,"1,80 m",87,76,76,1600000,22000,Right,3,2,Normal,74.0,1000000
+A. Townsend,RW,Crystal Palace,28,"1,81 m",73,78,78,11000000,55000,Left,4,4,Lean,77.0,15000000
+M. Vrančić,CM,Norwich,30,"1,87 m",78,73,73,3700000,36000,Left,3,3,Lean,72.0,3500000
+D. Solanke,ST,Bournemouth,22,"1,86 m",80,70,80,2900000,25000,Right,3,3,Lean,68.0,18000000
+J. Foyth,CB,Spurs,21,"1,87 m",69,74,85,9000000,40000,Right,3,3,Lean,73.0,15000000
+Kiko Femenía,RB,Watford,28,"1,71 m",61,76,76,6500000,53000,Right,3,3,Normal,74.5,6000000
+J. Willems,LB,Newcastle,25,"1,69 m",82,75,78,7500000,31000,Left,4,3,Normal,73.5,5000000
+A. Pereira,CAM,Man Utd,23,"1,78 m",73,58,70,200000,1000,Left,3,2,Lean,43.0,15000000
+A. Gomes,CM,Everton,26,"1,88 m",61,68,86,1800000,12000,Right,4,4,Lean,62.0,28000000
+A. Connolly,ST,Brighton,19,"1,75 m",77,64,79,975000,7000,Right,3,2,Normal,60.0,2500000
+D. Gosling,CM,Bournemouth,29,"1,80 m",79,75,75,6500000,55000,Right,3,3,Normal,73.0,3500000
+M. Lowton,RB,Burnley,30,"1,80 m",78,75,75,5500000,29000,Right,3,2,Normal,74.0,5000000
+B. Gilmour,CM,Chelsea,18,"1,68 m",67,62,84,675000,5000,Right,3,3,Lean,60.0,2500000
+F. Benković,CB,Leicester,22,"1,94 m",91,76,85,11000000,43000,Right,3,2,Normal,75.0,11000000
+D. Ings,ST,Southampton,27,"1,78 m",73,76,77,9000000,53000,Right,3,3,Normal,74.0,15000000
+D. McGoldrick,ST,Sheffield Utd.,31,"1,84 m",74,72,72,2800000,26000,Right,3,3,Normal,70.0,2000000
+David Silva,CAM,Man City,33,"1,70 m",67,88,88,36000000,265000,Left,2,4,Normal,85.0,20000000
+E. García,CB,Man City,18,"1,83 m",67,71,71,2000000,13000,Right,5,3,Normal,65.0,7000000
+Fred,CM,Man Utd,26,"1,69 m",64,79,81,15000000,110000,Left,4,4,Lean,78.0,25000000
+Azpilicueta,RB,Chelsea,30,"1,78 m",76,84,84,25500000,145000,Right,3,2,Normal,81.0,35000000
+H. Lloris,GK,Spurs,32,"1,88 m",82,88,88,36000000,150000,Left,1,1,Lean,79.5,25000000
+D. McNeil,LW,Burnley,19,"1,83 m",68,74,85,9500000,17000,Left,3,3,Lean,72.0,15000000
+K. Hause,CB,Aston Villa,24,"1,91 m",93,68,77,1300000,16000,Left,3,2,Normal,67.0,3000000
+J. Schlupp,LM,Crystal Palace,26,"1,78 m",72,74,75,6500000,43000,Left,2,3,Normal,72.0,10000000
+M. Batshuayi,ST,Chelsea,26,"1,84 m",88,79,82,16000000,110000,Right,5,4,Normal,76.0,25000000
+M. McGovern,GK,Norwich,35,"1,90 m",89,68,68,400000,13000,Right,3,1,Normal,61.3,350000
+P. Dahlberg,GK,Watford,20,"1,95 m",90,68,78,1100000,11000,Right,3,1,Normal,60.3,1000000
+S. Prödl,CB,Watford,32,"1,94 m",97,73,73,2600000,41000,Right,2,2,Normal,72.0,2500000
+D. Stephens,CM,Brighton,29,"1,85 m",78,76,76,7000000,44000,Right,3,3,Lean,74.0,6000000
+G. Bong,LB,Brighton,31,"1,83 m",74,74,74,4100000,35000,Left,3,3,Lean,72.0,2000000
+M. Stekelenburg,GK,Everton,37,"1,97 m",92,73,73,675000,26000,Right,4,1,Lean,66.3,1000000
+P. Højbjerg,CM,Southampton,24,"1,85 m",84,77,82,11500000,45000,Right,4,3,Normal,75.0,15000000
+P. Zabaleta,RB,West Ham,34,"1,76 m",74,75,75,2300000,57000,Right,3,3,Normal,72.0,2000000
+K. Davis,ST,Aston Villa,21,"1,78 m",75,65,76,950000,11000,Right,2,3,Lean,62.0,2000000
+J. Willock,CM,Arsenal,20,"1,79 m",71,67,84,1600000,12000,Right,3,3,Lean,66.0,10000000
+J. Rodríguez,ST,Burnley,30,"1,85 m",75,85,85,40500000,225000,Left,2,4,Normal,81.0,10000000
+C. Atsu,LW,Newcastle,27,"1,65 m",65,74,74,6000000,33000,Left,3,3,Lean,73.0,6000000
+M. Zeegelaar,LB,Watford,29,"1,86 m",82,74,74,4800000,47000,Left,3,3,Normal,72.5,2500000
+G. Xhaka,CDM,Arsenal,27,"1,86 m",82,81,84,21500000,94000,Left,3,3,Normal,77.0,40000000
+Richarlison,LW,Everton,22,"1,79 m",71,79,84,17000000,72000,Right,5,4,Normal,79.0,50000000
+T. Cleverley,CM,Watford,30,"1,75 m",67,76,76,7500000,58000,Right,3,3,Normal,74.0,7000000
+F. Andone,ST,Brighton,26,"1,80 m",78,76,79,9500000,48000,Right,3,3,Normal,74.0,4500000
+D. Alli,CAM,Spurs,23,"1,88 m",80,84,89,41500000,115000,Right,3,4,Lean,82.0,90000000
+X. Shaqiri,RW,Liverpool,28,"1,69 m",72,82,82,23000000,120000,Left,4,5,Shaqiri,80.0,25000000
+H. Winks,CM,Spurs,23,"1,78 m",74,80,86,20000000,82000,Right,3,3,Normal,78.0,40000000
+J. Ayew,ST,Crystal Palace,28,"1,82 m",81,75,75,7000000,50000,Right,3,4,Normal,73.0,8000000
+C. Wood,ST,Burnley,27,"1,91 m",92,77,78,10500000,39000,Right,3,2,Normal,72.0,18000000
+S. Mustafi,CB,Arsenal,27,"1,84 m",82,79,81,13000000,76000,Right,3,2,Normal,77.0,18000000
+L. Kelly,LB,Bournemouth,21,"1,90 m",70,68,84,1800000,14000,Left,3,3,Lean,66.0,9000000
+Ederson,GK,Man City,26,"1,88 m",86,88,91,54500000,185000,Left,3,1,Normal,83.0,70000000
+A. Barnes,ST,Burnley,30,"1,86 m",84,78,78,10500000,44000,Right,4,3,Normal,74.0,10000000
+H. Maguire,CB,Man Utd,26,"1,94 m",100,82,83,23000000,125000,Right,3,2,Stocky,81.0,70000000
+K. Darlow,GK,Newcastle,29,"1,90 m",78,73,75,3500000,24000,Right,2,1,Normal,68.5,3500000
+M. Lanzini,CAM,West Ham,26,"1,67 m",59,80,82,18000000,88000,Right,3,4,Lean,79.0,20000000
+V. Wanyama,CDM,Spurs,28,"1,84 m",87,78,79,10500000,77000,Right,3,2,Normal,76.0,15000000
+C. Cathcart,CB,Watford,30,"1,89 m",83,76,76,6000000,51000,Right,3,2,Lean,75.0,5000000
+W. Caballero,GK,Chelsea,38,"1,86 m",81,75,75,675000,37000,Right,3,1,Normal,68.7,1000000
+J. Egan,CB,Sheffield Utd.,27,"1,85 m",75,74,77,6000000,27000,Right,3,2,Normal,72.0,7000000
+K. Walker-Peters,RB,Spurs,22,"1,73 m",64,74,80,7000000,49000,Right,4,3,Lean,72.0,10000000
+N. Maupay,ST,Brighton,23,"1,73 m",69,75,81,9500000,40000,Right,3,3,Normal,73.0,18000000
+J. Simpson,CB,Bournemouth,22,"1,90 m",83,67,76,1100000,15000,Left,2,2,Lean,66.0,1500000
+S. Aurier,RB,Spurs,26,"1,76 m",76,79,80,13000000,81000,Right,3,3,Normal,77.0,15000000
+Douglas Luiz,CM,Aston Villa,21,"1,78 m",70,74,84,9000000,33000,Right,2,3,Lean,72.0,10000000
+I. Hayden,CDM,Newcastle,24,"1,86 m",79,76,83,10000000,29000,Right,4,2,Lean,74.0,10000000
+H. Mkhitaryan,CAM,Arsenal,30,"1,77 m",75,81,81,17000000,94000,Right,5,4,Lean,80.0,25000000
+R. Holding,CB,Arsenal,24,"1,89 m",75,76,83,10000000,52000,Right,3,2,Lean,75.0,12000000
+S. Henderson,GK,Crystal Palace,31,"1,88 m",87,66,66,425000,10000,Right,3,1,Normal,60.7,500000
+M. Gibbs-White,CM,Wolves,19,"1,71 m",70,70,86,3800000,20000,Right,2,4,Lean,68.0,8000000
+D. Praet,CM,Leicester,25,"1,81 m",78,76,81,10000000,63000,Right,4,4,Normal,75.0,24000000
+F. Tomori,CB,Chelsea,21,"1,84 m",75,72,83,4900000,38000,Right,3,2,Lean,70.0,10000000
+E. Martínez,GK,Arsenal,27,"1,90 m",85,75,80,6500000,46000,Right,3,1,Normal,72.0,3500000
+Willian,RW,Chelsea,31,"1,75 m",78,82,82,21000000,140000,Right,4,4,Lean,81.0,35000000
+M. Hector,CB,Chelsea,27,"1,93 m",82,72,74,3300000,53000,Right,3,2,Lean,70.0,3000000
+M. Guendouzi,CM,Arsenal,20,"1,84 m",68,75,86,11500000,46000,Right,3,3,Lean,73.0,45000000
+K. Schmeichel,GK,Leicester,33,"1,89 m",89,83,83,15500000,82000,Right,3,1,Stocky,77.2,12000000
+Pedro Neto,RW,Wolves,19,"1,72 m",63,66,83,1400000,12000,Left,3,3,Normal,66.0,7000000
+A. Yarmolenko,RW,West Ham,30,"1,90 m",83,79,79,12500000,87000,Left,2,4,Lean,78.0,20000000
+A. Smith,RB,Bournemouth,28,"1,74 m",78,76,76,6500000,53000,Right,3,3,Lean,74.0,7000000
+R. Sterling,LW,Man City,24,"1,70 m",69,88,90,73000000,255000,Right,3,4,Lean,86.0,140000000
+T. Cantwell,LM,Norwich,21,"1,77 m",70,68,77,1400000,13000,Right,2,3,Lean,67.0,7000000
+R. Pereyra,CAM,Watford,28,"1,82 m",77,80,80,15000000,78000,Right,4,4,Lean,79.0,13000000
+L. Grant,GK,Man Utd,36,"1,93 m",83,72,72,525000,30000,Right,4,1,Normal,68.0,750000
+A. Masuaku,LB,West Ham,26,"1,79 m",70,76,79,8500000,57000,Left,2,4,Lean,74.5,10000000
+Ricardo Pereira,RB,Leicester,26,"1,75 m",70,82,84,23500000,89000,Right,4,3,Lean,80.5,30000000
+D. Henderson,GK,Sheffield Utd.,22,"1,88 m",85,75,85,8500000,20000,Right,2,1,Lean,69.3,7000000
+Héctor Bellerín,RB,Arsenal,24,"1,78 m",74,80,85,17500000,69000,Right,3,3,Lean,78.0,40000000
+A. Maitland-Niles,RM,Arsenal,22,"1,80 m",71,75,84,9500000,41000,Right,3,4,Lean,73.0,18000000
+C. Pulisic,RW,Chelsea,21,"1,72 m",69,79,86,18000000,85000,Right,4,4,Lean,78.0,60000000
+A. Oxlade-Chamberlain,CM,Liverpool,26,"1,75 m",70,80,83,18500000,90000,Right,4,4,Stocky,78.0,35000000
+D. Srbeny,ST,Norwich,25,"1,90 m",83,68,72,1200000,18000,Right,3,3,Lean,65.0,1250000
+G. Thomas,RW,Leicester,22,"1,73 m",76,65,76,925000,14000,Right,3,3,Normal,64.0,500000
+S. Mané,LW,Liverpool,27,"1,74 m",69,88,88,62000000,220000,Right,4,4,Normal,86.0,120000000
+S. Cook,CB,Bournemouth,28,"1,85 m",82,78,78,9000000,61000,Right,3,2,Normal,76.0,10000000
+C. Clark,CB,Newcastle,30,"1,88 m",88,75,76,6500000,34000,Left,2,2,Normal,74.0,6000000
+D. Calvert-Lewin,ST,Everton,22,"1,87 m",71,77,83,12500000,68000,Right,3,3,Lean,74.0,20000000
+H. Choudhury,CDM,Leicester,22,"1,78 m",64,74,83,8000000,38000,Right,3,2,Lean,72.0,10000000
+P. Cutrone,ST,Wolves,21,"1,83 m",78,77,87,14500000,58000,Right,3,3,Normal,73.0,25000000
+Gabriel Jesus,ST,Man City,22,"1,75 m",73,82,88,31000000,140000,Right,3,4,Normal,82.0,70000000
+J. Lerma,CDM,Bournemouth,25,"1,79 m",70,79,83,15000000,55000,Right,4,3,Normal,78.0,25000000
+M. Kean,ST,Everton,19,"1,83 m",79,76,89,14500000,43000,Right,3,3,Normal,72.0,40000000
+M. Kovačić,CM,Chelsea,25,"1,77 m",78,82,87,29000000,125000,Right,4,4,Lean,81.0,35000000
+J. Ruddy,GK,Wolves,33,"1,92 m",97,70,70,1100000,27000,Right,3,1,Stocky,65.0,3000000
+I. Amadou,CDM,Norwich,26,"1,83 m",81,78,82,12000000,46000,Right,3,3,Normal,76.0,7000000
+J. Shelvey,CM,Newcastle,27,"1,84 m",80,77,78,10000000,40000,Right,3,3,Lean,75.0,15000000
+Guaita,GK,Crystal Palace,32,"1,90 m",80,79,79,7500000,45000,Right,3,1,Normal,74.2,5000000
+V. van Dijk,CB,Liverpool,28,"1,93 m",92,90,91,78000000,200000,Right,3,2,Normal,87.0,100000000
+A. Tettey,CDM,Norwich,33,"1,81 m",68,71,71,1200000,25000,Right,2,2,Normal,70.0,2000000
+A. Saint-Maximin,RW,Newcastle,22,"1,73 m",67,79,86,17500000,45000,Right,4,5,Normal,79.0,25000000
+R. Bertrand,LB,Southampton,30,"1,79 m",80,78,78,8500000,53000,Left,3,3,Normal,76.0,15000000
+T. Davies,CM,Everton,21,"1,80 m",70,75,82,9500000,46000,Right,3,3,Lean,73.0,15000000
+T. Abraham,ST,Chelsea,22,"1,91 m",80,76,85,12000000,67000,Right,3,3,Lean,72.0,32000000
+J. Henderson,CM,Liverpool,29,"1,87 m",80,83,83,22000000,115000,Right,3,3,Normal,81.0,35000000
+A. Rüdiger,CB,Chelsea,26,"1,90 m",85,82,84,24000000,115000,Right,3,2,Lean,81.0,50000000
+A. Gray,ST,Watford,28,"1,78 m",78,76,76,8000000,63000,Right,3,3,Normal,74.0,15000000
+M. Antonio,RW,West Ham,29,"1,80 m",82,78,78,10000000,79000,Right,3,4,Stocky,76.0,15000000
+R. Jiménez,ST,Wolves,28,"1,88 m",81,80,80,15500000,99000,Right,4,3,Normal,77.0,35000000
+C. Benteke,ST,Crystal Palace,28,"1,90 m",83,75,75,7000000,52000,Right,3,2,Normal,68.0,15000000
+A. Young,LB,Man Utd,34,"1,76 m",65,77,77,4000000,85000,Right,3,4,Lean,73.5,5000000
+Diogo Dalot,RB,Man Utd,20,"1,83 m",76,75,85,10000000,54000,Right,3,3,Normal,73.5,20000000
+R. Nelson,RW,Arsenal,19,"1,75 m",71,72,85,6000000,31000,Right,4,4,Lean,71.0,17000000
+H. Son,LW,Spurs,27,"1,84 m",78,87,88,60000000,185000,Right,5,4,Lean,86.0,80000000
+D. Welbeck,ST,Watford,28,"1,85 m",73,78,78,10500000,72000,Right,3,3,Normal,75.0,12000000
+Soares,RB,Southampton,28,"1,71 m",82,79,79,13000000,19000,Right,3,3,Normal,59.5,12000000
+A. Carroll,ST,Newcastle,30,"1,93 m",79,75,75,6500000,39000,Left,3,2,Normal,69.0,6000000
+D. Amartey,CDM,Leicester,24,"1,86 m",79,73,76,4500000,42000,Right,3,3,Lean,72.0,7000000
+Joelinton,ST,Newcastle,23,"1,86 m",81,78,84,14500000,41000,Right,4,3,Normal,75.0,35000000
+M. Bešić,CDM,Sheffield Utd.,27,"1,80 m",80,72,75,3800000,24000,Right,3,3,Normal,72.0,5000000
+Nacho Monreal,LB,Arsenal,33,"1,80 m",77,79,79,5500000,76000,Left,3,3,Lean,76.0,8000000
+E. Stevens,LB,Sheffield Utd.,29,"1,83 m",78,74,74,4800000,29000,Left,2,3,Normal,71.5,3500000
+J. Lascelles,CB,Newcastle,26,"1,88 m",89,78,82,12000000,37000,Right,3,2,Stocky,77.0,18000000
+Angeliño,LB,Man City,22,"1,75 m",69,79,84,15000000,91000,Left,3,4,Stocky,78.0,16000000
+P. Dummett,LB,Newcastle,28,"1,83 m",82,75,76,6500000,32000,Left,2,2,Normal,72.5,7000000
+A. Jahanbakhsh,RW,Brighton,26,"1,80 m",78,75,76,8000000,44000,Right,4,4,Normal,75.0,12000000
+L. Clarke,ST,Sheffield Utd.,34,"1,88 m",89,70,70,925000,20000,Right,4,2,Normal,65.0,500000
+J. Steer,GK,Aston Villa,27,"1,82 m",80,70,73,1600000,21000,Left,2,1,Normal,66.3,2000000
+Alisson,GK,Liverpool,27,"1,91 m",91,89,91,58000000,155000,Right,3,1,Normal,80.7,80000000
+N. Matić,CDM,Man Utd,31,"1,94 m",85,81,81,14500000,115000,Left,3,3,Lean,79.0,25000000
+J. Colback,CDM,Newcastle,30,"1,77 m",77,71,71,2000000,22000,Left,2,3,Lean,69.0,3000000
+N. Keïta,CM,Liverpool,24,"1,72 m",64,82,87,29000000,95000,Right,4,4,Lean,80.0,50000000
+M. Rojo,CB,Man Utd,29,"1,86 m",85,78,78,8500000,95000,Left,2,3,Normal,76.0,10000000
+J. Grealish,CAM,Aston Villa,24,"1,75 m",68,77,85,13000000,47000,Right,3,4,Lean,75.0,25000000
+M. Holgate,CB,Everton,23,"1,87 m",75,75,81,8000000,49000,Right,3,3,Lean,74.0,7000000
+L. Fabiański,GK,West Ham,34,"1,90 m",83,82,82,9500000,75000,Right,2,1,Normal,74.5,5000000
+L. Dunk,CB,Brighton,27,"1,92 m",88,78,80,11000000,46000,Right,3,2,Normal,76.0,20000000
+A. Mariappa,CB,Watford,33,"1,79 m",79,75,75,4300000,49000,Right,3,2,Normal,73.0,3000000
+A. Traoré,RW,Wolves,23,"1,78 m",72,71,76,3100000,19000,Left,3,3,Lean,67.0,15000000
+T. Alexander-Arnold,RB,Liverpool,21,"1,80 m",69,83,89,32000000,78000,Right,4,3,Lean,80.5,80000000
+D. Foulquier,RB,Watford,26,"1,83 m",78,74,75,6500000,49000,Right,3,3,Lean,73.5,3500000
+T. Alderweireld,CB,Spurs,30,"1,86 m",81,87,87,41000000,155000,Right,3,2,Normal,84.0,40000000
+Trezeguet,LW,Aston Villa,25,"1,79 m",78,77,79,11000000,52000,Right,5,4,Normal,76.0,8000000
+P. Heise,LB,Norwich,28,"1,84 m",78,70,70,1500000,23000,Left,3,3,Normal,68.5,1000000
+T. Băluță,CDM,Brighton,20,"1,91 m",80,72,83,5000000,21000,Right,2,2,Normal,70.0,4500000
+C. Kabasele,CB,Watford,28,"1,87 m",84,78,79,10000000,61000,Right,3,2,Lean,76.0,8000000
+H. Saivet,CAM,Newcastle,29,"1,75 m",76,74,74,5500000,34000,Right,4,3,Normal,73.0,1000000
+J. Stephens,CB,Southampton,25,"1,85 m",75,74,80,7000000,37000,Right,3,2,Lean,73.0,8000000
+G. Lo Celso,CM,Spurs,23,"1,77 m",68,83,89,35000000,105000,Left,3,4,Normal,81.0,50000000
+N. Pope,GK,Burnley,27,"1,97 m",76,79,82,11000000,32000,Right,3,1,Lean,73.3,10000000
+C. Daniels,LB,Bournemouth,33,"1,78 m",75,73,73,2500000,41000,Left,3,3,Normal,71.5,3000000
+A. Tuanzebe,CB,Man Utd,22,"1,84 m",72,73,84,6500000,46000,Right,3,3,Normal,71.0,7000000
+R. Brady,LM,Burnley,27,"1,76 m",77,76,76,8000000,34000,Left,3,4,Normal,74.0,8000000
+M. Sakho,CB,Crystal Palace,29,"1,87 m",83,79,80,12000000,58000,Left,2,2,Normal,78.0,15000000
+I. Gündoğan,CM,Man City,29,"1,80 m",80,84,84,31000000,180000,Right,4,4,Normal,83.0,50000000
+A. Lacazette,ST,Arsenal,28,"1,76 m",73,86,86,46000000,165000,Right,4,4,Normal,84.0,70000000
+D. Gayle,ST,Newcastle,29,"1,77 m",78,76,76,8000000,42000,Right,4,3,Normal,72.0,15000000
+J. McArthur,CM,Crystal Palace,32,"1,78 m",66,76,76,6500000,48000,Right,3,3,Normal,74.0,7000000
+D. Lovren,CB,Liverpool,30,"1,88 m",84,80,80,12500000,90000,Right,4,2,Normal,79.0,20000000
+C. Hourihane,CM,Aston Villa,28,"1,81 m",70,74,74,5500000,47000,Left,4,3,Lean,73.0,6500000
+D. Yedlin,RB,Newcastle,26,"1,73 m",75,76,79,8500000,32000,Right,3,3,Normal,74.5,8000000
+K. Tierney,LB,Arsenal,22,"1,78 m",78,76,86,11000000,52000,Left,3,3,Normal,75.0,25000000
+B. Kapustka,CAM,Leicester,22,"1,79 m",67,71,79,3500000,36000,Right,3,3,Lean,69.0,2500000
+J. Sterry,RB,Newcastle,23,"1,80 m",76,61,69,325000,5000,Right,3,2,Lean,59.0,75000
+M. Vydra,ST,Burnley,27,"1,80 m",71,73,74,4600000,27000,Right,4,3,Normal,73.0,8000000
+T. Trybull,CDM,Norwich,26,"1,81 m",72,73,75,4300000,33000,Right,3,3,Lean,72.0,4000000
+B. Peacock-Farrell,GK,Burnley,23,"1,94 m",73,69,78,1300000,10000,Left,2,1,Normal,66.2,1500000
+S. Agüero,ST,Man City,31,"1,73 m",70,89,89,60000000,300000,Right,4,4,Stocky,87.0,65000000
+J. Justin,RB,Leicester,21,"1,83 m",71,69,83,2100000,20000,Right,4,3,Lean,68.0,4000000
+Vallejo,CB,Wolves,22,"1,84 m",79,77,83,11000000,55000,Right,3,2,Lean,75.0,10000000
+K. Danso,CB,Southampton,21,"1,90 m",89,71,80,3400000,20000,Right,3,2,Normal,69.0,8000000
+C. Hudson-Odoi,LW,Chelsea,19,"1,77 m",75,74,88,11500000,31000,Right,3,4,Normal,73.0,35000000
+A. Lallana,CAM,Liverpool,31,"1,72 m",73,79,79,11000000,89000,Right,5,4,Lean,78.0,15000000
+K. Zouma,CB,Chelsea,25,"1,90 m",96,80,84,17500000,85000,Right,3,2,Normal,78.0,25000000
+T. Mings,CB,Aston Villa,26,"1,95 m",77,74,78,6500000,41000,Left,3,3,Normal,73.0,18000000
+M. James,CM,Leicester,28,"1,81 m",84,68,73,1100000,8000,Right,3,2,Normal,55.0,1500000
+C. Zimmermann,CB,Norwich,26,"1,94 m",92,72,75,3400000,29000,Right,3,2,Normal,71.0,3500000
+G. Murray,ST,Brighton,36,"1,86 m",80,77,77,4100000,39000,Right,3,2,Lean,71.0,3000000
+Bernardo,LB,Brighton,24,"1,86 m",76,75,80,8000000,33000,Left,3,3,Lean,72.5,9000000
+B. Osborn,LM,Sheffield Utd.,25,"1,76 m",75,72,77,3700000,19000,Left,3,3,Lean,70.0,3000000
+A. Surman,CM,Bournemouth,33,"1,78 m",73,75,75,5000000,53000,Left,4,3,Lean,73.0,2500000
+J. Stacey,RB,Bournemouth,23,"1,80 m",62,70,79,2500000,24000,Right,3,2,Lean,68.5,4000000
+A. Masina,LB,Watford,25,"1,91 m",87,74,79,6500000,43000,Left,3,3,Normal,72.0,5000000
+P. Foden,CM,Man City,19,"1,71 m",69,76,90,16500000,52000,Left,3,4,Lean,73.0,30000000
+Bernard,LW,Everton,27,"1,64 m",60,80,80,16000000,88000,Right,4,4,Lean,79.0,20000000
+L. Cook,CM,Bournemouth,22,"1,75 m",71,77,84,12500000,52000,Right,4,3,Normal,75.0,20000000
+L. Shaw,LB,Man Utd,24,"1,81 m",75,81,84,20000000,97000,Left,2,3,Stocky,80.0,30000000
+A. Lonergan,GK,Liverpool,36,"1,93 m",87,65,65,150000,8000,Left,1,1,Normal,58.7,250000
+J. Lössl,GK,Everton,30,"1,95 m",88,75,76,5000000,46000,Right,2,1,Lean,66.7,5000000
+C. Bravo,GK,Man City,36,"1,84 m",80,77,77,1500000,47000,Right,3,1,Normal,74.2,2500000
+G. Cahill,CB,Crystal Palace,33,"1,93 m",88,77,77,4200000,47000,Right,3,2,Normal,76.0,6000000
+J. Hart,GK,Burnley,32,"1,96 m",91,77,77,5500000,27000,Right,3,1,Normal,71.7,4000000
+L. Baines,LB,Everton,34,"1,70 m",70,75,75,2300000,57000,Left,3,3,Lean,72.5,3500000
+J. Tarkowski,CB,Burnley,26,"1,85 m",81,79,82,14000000,39000,Right,4,2,Normal,78.0,18000000
+R. Elliot,GK,Newcastle,33,"1,90 m",94,70,70,950000,15000,Left,2,1,Normal,65.8,1000000
+Fabinho,CDM,Liverpool,26,"1,88 m",78,85,89,45000000,125000,Right,2,3,Lean,84.0,50000000
+T. Fosu-Mensah,RB,Man Utd,21,"1,90 m",78,73,81,5500000,46000,Right,4,3,Normal,70.5,7000000
+I. Diop,CB,West Ham,22,"1,94 m",92,78,86,14000000,59000,Right,3,2,Lean,77.0,35000000
+J. Ibe,RW,Bournemouth,23,"1,76 m",81,73,78,5500000,39000,Right,4,3,Normal,72.0,8000000
+Deulofeu,RW,Watford,25,"1,77 m",73,80,83,19000000,78000,Right,4,4,Normal,81.0,25000000
+M. Targett,LB,Aston Villa,24,"1,83 m",70,72,81,4300000,28000,Left,2,3,Normal,70.5,10000000
+M. Travers,GK,Bournemouth,20,"1,91 m",82,64,78,850000,6000,Right,2,1,Lean,58.2,250000
+de Gea,GK,Man Utd,29,"1,89 m",82,89,90,56000000,205000,Right,3,1,Lean,81.7,65000000
+Rodri,CDM,Man City,23,"1,91 m",82,85,90,47000000,150000,Right,4,3,Lean,82.0,80000000
+S. Romero,GK,Man Utd,32,"1,92 m",86,80,80,9000000,85000,Right,3,1,Normal,73.8,3500000
+E. Konsa,CB,Aston Villa,22,"1,83 m",77,70,80,2600000,18000,Right,3,2,Lean,68.0,8000000
+D. James,LW,Man Utd,22,"1,70 m",76,72,84,5500000,46000,Right,4,3,Normal,71.0,25000000
+K. McLean,CM,Norwich,27,"1,80 m",70,72,73,3500000,31000,Left,3,3,Normal,70.0,2500000
+Rúben Neves,CDM,Wolves,22,"1,80 m",80,82,87,29000000,89000,Right,4,3,Normal,78.0,50000000
+M. Schneiderlin,CDM,Everton,30,"1,86 m",75,77,77,7500000,68000,Right,3,3,Lean,75.0,15000000
+F. Fernández,CB,Newcastle,30,"1,90 m",83,76,76,6000000,34000,Right,2,2,Normal,75.0,7000000
+A. Laporte,CB,Man City,25,"1,91 m",85,87,90,56500000,195000,Left,3,2,Normal,85.0,75000000
+J. O'Connell,CB,Sheffield Utd.,25,"1,91 m",85,74,79,6500000,26000,Left,2,2,Stocky,72.0,6500000
+J. Matip,CB,Liverpool,28,"1,95 m",90,82,84,23000000,99000,Right,2,2,Lean,80.0,35000000
+Dani Ceballos,CM,Arsenal,23,"1,79 m",70,81,87,24000000,82000,Right,3,4,Lean,80.0,45000000
+D. Pröpper,CM,Brighton,28,"1,85 m",79,77,78,10000000,47000,Right,3,4,Lean,76.0,15000000
+B. Gibson,CB,Burnley,26,"1,85 m",78,74,78,6500000,27000,Left,3,2,Normal,72.0,10000000
+Roberto Firmino,ST,Liverpool,28,"1,81 m",76,86,87,52000000,170000,Right,4,4,Lean,84.0,80000000
+K. Long,CB,Burnley,29,"1,88 m",82,73,74,3900000,26000,Right,2,2,Normal,71.0,2500000
+A. Cresswell,LB,West Ham,29,"1,70 m",66,76,76,6500000,63000,Left,3,3,Normal,74.0,8000000
+J. Tomkins,CB,Crystal Palace,30,"1,92 m",74,78,78,8500000,51000,Right,3,2,Normal,77.0,6000000
+Gomes,GK,Watford,38,"1,91 m",95,76,76,775000,27000,Right,2,1,Lean,68.2,1000000
+D. Button,GK,Brighton,30,"1,91 m",87,68,68,600000,13000,Right,3,1,Lean,64.8,1500000
+A. Christensen,CB,Chelsea,23,"1,88 m",81,80,87,19000000,85000,Right,3,2,Lean,79.0,35000000
+R. Holmes,LW,Sheffield Utd.,32,"1,88 m",75,67,67,600000,11000,Right,3,3,Lean,66.0,350000
+K. de Bruyne,CAM,Man City,28,"1,81 m",70,91,91,90000000,370000,Right,5,4,Normal,88.0,130000000
+R. Morrison,CAM,Sheffield Utd.,26,"1,75 m",71,76,79,9500000,34000,Right,4,3,Normal,74.0,1000000
+J. Gomez,CB,Liverpool,22,"1,88 m",77,80,88,20000000,73000,Right,3,3,Normal,77.0,35000000
+G. Baldock,RB,Sheffield Utd.,26,"1,78 m",67,69,71,1100000,14000,Right,2,3,Normal,67.0,3000000
+P. Aubameyang,ST,Arsenal,30,"1,87 m",80,88,88,57000000,205000,Right,4,4,Lean,83.0,70000000
+Jorginho,CDM,Chelsea,27,"1,80 m",67,83,84,29000000,140000,Right,3,3,Lean,79.0,65000000
+M. Greenwood,ST,Man Utd,18,"1,81 m",65,67,87,1500000,6000,Left,5,3,Lean,66.0,10000000
+A. Lennon,RW,Burnley,32,"1,65 m",63,74,74,4400000,30000,Right,3,3,Normal,73.0,5000000
+D. Sánchez,CB,Spurs,23,"1,87 m",79,83,87,30500000,93000,Right,3,2,Normal,81.0,55000000
+Y. Bissouma,CM,Brighton,23,"1,82 m",80,75,81,9000000,36000,Right,3,4,Normal,73.0,15000000
+W. Reid,CB,West Ham,31,"1,91 m",87,76,76,6000000,60000,Right,3,2,Normal,75.0,5000000
+D. Rice,CDM,West Ham,20,"1,85 m",80,78,87,15000000,49000,Right,3,2,Lean,76.0,50000000
+Emerson,LB,Chelsea,25,"1,75 m",77,77,82,10500000,68000,Left,3,3,Lean,75.5,25000000
+Pablo Fornals,CAM,West Ham,23,"1,78 m",67,81,87,24500000,82000,Right,3,4,Lean,79.0,25000000
+N. Redmond,LW,Southampton,25,"1,73 m",69,77,80,11000000,50000,Right,3,4,Lean,76.0,20000000
+M. Obafemi,ST,Southampton,19,"1,70 m",71,63,78,775000,4000,Right,3,2,Stocky,61.0,2000000
+N. Taylor,LB,Aston Villa,30,"1,76 m",75,70,70,1400000,25000,Left,3,3,Normal,68.0,4000000
+Pedro,RW,Chelsea,32,"1,67 m",65,82,82,19500000,140000,Right,5,4,Lean,80.0,20000000
+C. Wickham,ST,Crystal Palace,26,"1,89 m",90,70,72,2200000,29000,Right,3,3,Stocky,66.0,3000000
+A. Elmohamady,RB,Aston Villa,32,"1,82 m",78,70,70,1300000,25000,Right,3,3,Lean,68.5,3000000
+A. Doucouré,CM,Watford,26,"1,83 m",76,81,84,20000000,73000,Right,3,3,Lean,79.0,25000000
+J. Steele,GK,Brighton,29,"1,88 m",79,68,69,750000,14000,Right,3,1,Normal,62.5,750000
+L. Kalinic,GK,Aston Villa,29,"2,01 m",99,75,77,5500000,38000,Left,2,1,Lean,64.2,4000000
+N. Chalobah,CDM,Watford,24,"1,85 m",76,75,79,8000000,42000,Right,3,3,Lean,73.0,7000000
+O. Niasse,ST,Everton,29,"1,82 m",82,73,73,4000000,60000,Right,3,3,Lean,70.0,6000000
+D. Bachmann,GK,Watford,25,"1,91 m",81,69,75,1100000,16000,Right,3,1,Normal,63.3,500000
+D. Martin,GK,West Ham,33,"1,88 m",86,66,66,350000,14000,Right,3,1,Normal,60.7,250000
+T. Pukki,ST,Norwich,29,"1,80 m",80,77,77,9000000,53000,Right,3,3,Normal,76.0,9000000
+S. McTominay,CM,Man Utd,22,"1,90 m",88,77,84,11500000,73000,Right,3,3,Normal,74.0,20000000
+B. Saka,LW,Arsenal,18,"1,78 m",70,65,86,1200000,2000,Left,4,3,Normal,65.0,7000000
+B. Chilwell,LB,Leicester,22,"1,78 m",77,79,85,15500000,65000,Left,3,3,Normal,77.5,35000000
+M. Leitner,CM,Norwich,26,"1,74 m",68,73,75,4800000,36000,Right,4,3,Lean,72.0,3000000
+P. Bardsley,RB,Burnley,34,"1,80 m",79,72,72,1100000,22000,Right,3,3,Normal,70.0,1500000
+O. Zinchenko,LB,Man City,22,"1,75 m",64,78,85,13000000,82000,Left,3,3,Lean,76.5,30000000
+A. McCarthy,GK,Southampton,29,"1,93 m",79,76,77,6000000,38000,Right,2,1,Lean,71.3,5000000
+E. Buendía,RW,Norwich,22,"1,72 m",65,74,81,8000000,34000,Right,3,3,Stocky,73.0,18000000
+J. Hernández,ST,West Ham,31,"1,75 m",73,78,78,9500000,82000,Right,3,3,Normal,75.0,12000000
+S. Byram,RB,Norwich,26,"1,83 m",72,72,75,3400000,27000,Right,3,3,Lean,70.0,3500000
+J. Pickford,GK,Everton,25,"1,85 m",77,83,86,24000000,78000,Left,4,1,Normal,77.2,40000000
+H. Burgoyne,GK,Wolves,22,"1,93 m",80,63,75,525000,8000,Right,2,1,Normal,58.0,200000
+E. Schelotto,RB,Brighton,30,"1,87 m",77,73,73,3200000,33000,Right,3,3,Lean,71.5,2000000
+C. Martina,RB,Everton,30,"1,85 m",77,70,70,1500000,35000,Right,3,2,Lean,69.0,1500000
+M. Djenepo,LW,Southampton,21,"1,77 m",65,74,83,8500000,32000,Right,3,3,Lean,73.0,12000000
+J. Graham,LW,Wolves,24,"1,82 m",73,65,69,700000,14000,Right,5,4,Lean,64.0,500000
+J. McCarthy,CM,Crystal Palace,29,"1,80 m",72,75,75,6000000,44000,Right,4,3,Normal,72.0,5000000
+C. Eriksen,CAM,Spurs,27,"1,82 m",76,88,89,68000000,205000,Right,5,4,Lean,86.0,100000000
+C. Adams,ST,Southampton,23,"1,79 m",66,74,81,8000000,41000,Right,4,3,Stocky,72.0,12000000
+A. Ajeti,ST,West Ham,22,"1,83 m",78,74,82,8500000,56000,Right,4,3,Normal,70.0,7000000
+M. Sissoko,CM,Spurs,30,"1,87 m",91,81,81,17000000,105000,Right,3,3,Normal,79.0,25000000
+Gonçalo Cardoso,CB,West Ham,19,"1,89 m",83,67,79,1200000,6000,Left,3,2,Normal,65.0,2500000
+H. Lansbury,CM,Aston Villa,29,"1,83 m",85,70,70,1800000,29000,Right,3,3,Normal,68.0,1500000
+J. Lundstram,CM,Sheffield Utd.,25,"1,81 m",74,67,70,950000,11000,Right,5,2,Normal,66.0,2000000
+J. Bednarek,CB,Southampton,23,"1,89 m",77,77,83,11000000,41000,Right,3,2,Lean,75.0,15000000
+O. Hernández,LW,Norwich,26,"1,72 m",76,73,74,4700000,36000,Right,3,4,Stocky,73.0,4000000
+Fernandinho,CDM,Man City,34,"1,79 m",67,87,87,19500000,200000,Right,4,3,Lean,84.0,12000000
+S. March,LM,Brighton,25,"1,80 m",77,75,78,8500000,36000,Left,2,3,Lean,73.0,8000000
+J. Ward,RB,Crystal Palace,30,"1,86 m",83,73,73,3300000,37000,Right,3,3,Normal,71.0,4000000
+W. Ndidi,CDM,Leicester,22,"1,83 m",74,81,84,20500000,74000,Right,4,3,Lean,80.0,35000000
+D. Ward,GK,Leicester,26,"1,91 m",88,73,74,3300000,39000,Right,3,1,Normal,66.8,8000000
+B. Foster,GK,Watford,36,"1,93 m",90,80,80,2500000,36000,Left,3,1,Normal,73.2,3000000
+S. Haller,ST,West Ham,25,"1,90 m",82,83,85,32000000,120000,Right,2,3,Lean,78.0,45000000
+O. Giroud,ST,Chelsea,33,"1,93 m",92,82,82,17500000,140000,Left,3,3,Normal,76.0,12000000
+C. Wilson,ST,Bournemouth,27,"1,80 m",66,80,81,17500000,81000,Right,3,4,Normal,78.0,30000000
+Marcos Alonso,LB,Chelsea,28,"1,88 m",87,81,81,15000000,115000,Left,3,3,Lean,79.5,32000000
+W. Hennessey,GK,Crystal Palace,32,"1,97 m",90,75,75,4000000,34000,Right,3,1,Lean,69.5,5000000
+R. Loftus-Cheek,CM,Chelsea,23,"1,91 m",88,79,85,17000000,89000,Right,3,4,Normal,77.0,30000000
+Danjuma,LW,Bournemouth,22,"1,78 m",80,76,84,11500000,49000,Right,4,4,Normal,75.0,12000000
+D. Brooks,CAM,Bournemouth,22,"1,73 m",62,77,86,14000000,44000,Left,4,4,Lean,76.0,30000000
+E. Krafth,RB,Newcastle,25,"1,84 m",72,74,78,6500000,26000,Right,3,3,Normal,72.5,5000000
+L. Sané,LW,Man City,23,"1,84 m",75,86,92,61000000,195000,Left,3,4,Lean,84.0,100000000
+J. Holebas,LB,Watford,35,"1,84 m",81,78,78,2900000,42000,Left,2,3,Lean,76.0,2000000
+Rui Patrício,GK,Wolves,31,"1,90 m",84,83,83,16500000,82000,Left,2,1,Normal,76.5,20000000
+J. Guðmundsson,RW,Burnley,29,"1,86 m",77,78,78,10500000,40000,Left,4,4,Normal,76.0,10000000
+L. Digne,LB,Everton,26,"1,78 m",74,83,86,28500000,97000,Left,3,3,Lean,81.5,30000000
+A. Mooy,CM,Brighton,29,"1,79 m",72,76,76,7500000,46000,Right,3,3,Lean,75.0,14000000
+Diogo Jota,LW,Wolves,22,"1,78 m",73,80,86,20500000,84000,Right,5,4,Normal,79.0,35000000
+C. Kouyaté,CDM,Crystal Palace,29,"1,89 m",83,76,76,6500000,46000,Right,3,3,Lean,74.0,10000000
+P. van Aanholt,LB,Crystal Palace,29,"1,76 m",67,76,76,6500000,46000,Left,4,3,Lean,74.0,10000000
+P. Pogba,CM,Man Utd,26,"1,91 m",84,88,91,72500000,250000,Right,4,5,Normal,84.0,100000000
+K. Iheanacho,ST,Leicester,23,"1,85 m",80,73,80,5500000,51000,Left,3,4,Normal,73.0,12000000
+K. Bryan,CB,Sheffield Utd.,23,"1,85 m",72,64,74,675000,6000,Left,2,2,Normal,63.0,250000
+P. Groß,CM,Brighton,28,"1,81 m",78,78,78,10500000,52000,Right,4,4,Lean,77.0,10000000
+P. Ofosu-Ayeh,RB,Wolves,28,"1,81 m",81,65,65,475000,15000,Right,3,3,Stocky,63.5,300000
+T. Walcott,RW,Everton,30,"1,75 m",68,77,77,8500000,71000,Right,3,3,Lean,76.0,15000000
+T. Deeney,ST,Watford,31,"1,84 m",90,78,78,9500000,69000,Right,3,2,Stocky,74.0,10000000
+W. Morgan,CB,Leicester,35,"1,85 m",101,75,75,2000000,41000,Right,2,2,Stocky,74.0,2000000
+B. Leno,GK,Arsenal,27,"1,89 m",83,84,86,26000000,91000,Right,3,1,Normal,77.8,30000000
+J. Kodjia,ST,Aston Villa,30,"1,89 m",77,73,73,4000000,46000,Right,3,3,Lean,70.0,7000000
+O. McBurnie,ST,Sheffield Utd.,23,"1,88 m",77,74,81,8000000,29000,Right,2,3,Lean,70.0,12000000
+Y. Valery,RB,Southampton,20,"1,80 m",70,69,82,1900000,15000,Right,3,3,Lean,67.0,7000000
+R. Fährmann,GK,Norwich,31,"1,97 m",98,80,80,10000000,43000,Right,1,1,Normal,68.5,4000000
+Diego Rico,LB,Bournemouth,26,"1,83 m",76,74,76,6000000,45000,Left,2,3,Normal,72.5,7000000
+S. Long,ST,Southampton,32,"1,80 m",70,74,74,4500000,46000,Right,2,3,Normal,71.0,5000000
+M. Rashford,ST,Man Utd,22,"1,85 m",70,83,88,35500000,125000,Right,3,5,Lean,82.0,80000000
+Sokratis,CB,Arsenal,31,"1,86 m",85,84,84,23000000,115000,Right,2,2,Normal,82.0,20000000
+J. Hendrick,CM,Burnley,27,"1,85 m",84,75,75,7000000,32000,Right,3,3,Normal,74.0,10000000
+C. Robinson,LW,Sheffield Utd.,24,"1,78 m",75,73,78,5500000,26000,Right,3,3,Normal,73.0,7000000
+C. Tosun,ST,Everton,28,"1,83 m",78,77,77,9000000,80000,Right,4,3,Normal,73.0,15000000
+R. Barkley,CM,Chelsea,25,"1,85 m",87,79,82,16000000,98000,Right,5,4,Normal,77.0,30000000
+S. Longstaff,CM,Newcastle,22,"1,81 m",65,72,84,5500000,20000,Right,4,2,Lean,70.0,18000000
+J. Izquierdo,LW,Brighton,27,"1,71 m",75,76,76,8500000,48000,Right,3,4,Normal,75.0,10000000
+D. Janmaat,RB,Watford,30,"1,85 m",80,77,77,7500000,57000,Right,3,3,Normal,75.5,6000000
+F. Delph,CM,Everton,29,"1,74 m",78,77,77,7500000,68000,Left,3,3,Lean,77.0,15000000
+R. Saïss,CDM,Wolves,29,"1,88 m",84,77,77,7500000,68000,Left,3,3,Lean,76.0,5000000
+M. Dúbravka,GK,Newcastle,30,"1,91 m",80,80,81,11500000,37000,Right,2,1,Lean,74.0,7000000
+J. Locadia,ST,Brighton,26,"1,85 m",87,76,79,10000000,46000,Right,4,3,Normal,73.0,10000000
+Bernardo Silva,RW,Man City,25,"1,73 m",64,87,90,64000000,210000,Left,3,4,Lean,85.0,100000000
+A. Martial,LW,Man Utd,23,"1,83 m",76,83,88,34500000,140000,Right,3,4,Normal,82.0,60000000
+Kepa,GK,Chelsea,25,"1,86 m",85,84,89,31000000,92000,Right,4,1,Lean,75.0,60000000
+David Luiz,CB,Arsenal,32,"1,89 m",86,83,83,16500000,105000,Right,3,3,Normal,80.0,20000000
+J. Fleck,CM,Sheffield Utd.,28,"1,69 m",72,73,74,4500000,27000,Left,2,3,Stocky,72.0,5000000
+M. Meyer,CAM,Crystal Palace,24,"1,73 m",68,78,82,13500000,48000,Right,4,4,Lean,77.0,15000000
+D. Gray,LW,Leicester,23,"1,80 m",74,75,80,9000000,60000,Right,3,4,Lean,74.0,20000000
+M. Almirón,CAM,Newcastle,25,"1,74 m",63,80,83,18500000,52000,Left,2,4,Lean,79.0,20000000
+A. Gunn,GK,Southampton,23,"1,96 m",77,76,83,8000000,29000,Right,3,1,Lean,70.2,10000000
+R. Fredericks,RB,West Ham,27,"1,81 m",74,74,76,6000000,53000,Right,3,3,Lean,73.5,7000000
+N. Aké,CB,Bournemouth,24,"1,80 m",75,80,84,17500000,58000,Left,3,2,Lean,79.0,35000000
+J. Gbamin,CDM,Everton,24,"1,86 m",83,79,84,15500000,65000,Right,3,3,Normal,78.0,28000000
+B. Mee,CB,Burnley,30,"1,80 m",82,78,78,8500000,37000,Left,3,2,Normal,77.0,10000000
+A. Boruc,GK,Bournemouth,39,"1,93 m",87,75,75,675000,23000,Right,3,1,Normal,67.7,1000000
+B. Sharp,ST,Sheffield Utd.,33,"1,75 m",70,74,74,3500000,32000,Right,3,2,Stocky,69.0,2500000
+J. Ward-Prowse,CM,Southampton,25,"1,77 m",66,79,84,16500000,53000,Right,3,3,Normal,78.0,18000000
+I. Success,LW,Watford,23,"1,82 m",90,73,79,5500000,43000,Right,3,3,Stocky,71.0,5000000
+Montoya,RB,Brighton,28,"1,75 m",73,76,76,6500000,42000,Right,4,3,Lean,74.5,8000000
+K. Freeman,RB,Sheffield Utd.,27,"1,78 m",79,68,69,900000,12000,Right,3,3,Normal,66.0,1500000
+Felipe Anderson,LW,West Ham,26,"1,75 m",70,84,85,36500000,125000,Right,4,4,Normal,83.0,45000000
+W. Hughes,CM,Watford,24,"1,85 m",74,77,82,12000000,52000,Left,3,4,Lean,76.0,18000000
+M. Ritchie,RM,Newcastle,30,"1,73 m",76,75,75,5500000,34000,Left,4,4,Normal,76.0,12000000
+C. Dawson,CB,Watford,29,"1,88 m",82,75,75,5500000,51000,Right,2,2,Normal,74.0,6000000
+S. Dann,CB,Crystal Palace,32,"1,94 m",78,75,75,4300000,42000,Right,3,2,Normal,73.0,4000000
+J. Stanislas,LW,Bournemouth,29,"1,83 m",76,75,75,6500000,55000,Right,3,3,Lean,73.0,3500000
+L. Balogun,CB,Brighton,31,"1,90 m",88,74,74,4200000,35000,Right,3,2,Normal,73.0,2000000
+A. Pérez,CF,Leicester,26,"1,78 m",77,69,75,1300000,5000,Left,3,2,Normal,51.0,20000000
+C. Sánchez,CDM,West Ham,33,"1,82 m",82,75,75,3200000,57000,Right,3,3,Normal,73.0,1500000
+M. Keane,CB,Everton,26,"1,88 m",82,80,83,16500000,80000,Right,3,2,Normal,78.0,30000000
+M. Macey,GK,Arsenal,25,"1,99 m",81,66,72,675000,12000,Right,2,1,Lean,61.2,250000
+J. Stones,CB,Man City,25,"1,88 m",70,83,87,30000000,140000,Right,4,3,Lean,81.0,60000000
+T. Dele-Bashiru,CM,Watford,20,"1,79 m",68,57,76,220000,5000,Right,2,2,Normal,55.0,150000
+N. Clyne,RB,Liverpool,28,"1,75 m",67,78,78,9000000,77000,Right,2,3,Normal,76.0,12000000
+J. Vertonghen,CB,Spurs,32,"1,89 m",86,87,87,32500000,155000,Left,3,3,Normal,84.0,22000000
+G. Wijnaldum,CM,Liverpool,29,"1,75 m",69,84,84,31000000,140000,Right,3,4,Lean,81.0,50000000
+M. Albrighton,RM,Leicester,29,"1,75 m",74,76,76,7500000,69000,Right,3,3,Lean,74.0,10000000
+M. Yoshida,CB,Southampton,31,"1,89 m",78,75,75,5500000,42000,Right,4,2,Lean,73.0,7000000
+C. Söyüncü,CB,Leicester,23,"1,87 m",82,74,82,7500000,46000,Right,4,2,Normal,72.0,20000000
+P. Roberts,RW,Norwich,22,"1,67 m",66,74,82,8500000,34000,Left,3,4,Lean,74.0,5000000
+O. Norwood,CM,Sheffield Utd.,28,"1,75 m",69,75,75,6500000,34000,Right,3,2,Lean,73.0,5000000
+A. El Ghazi,RW,Aston Villa,24,"1,89 m",90,74,79,7500000,43000,Right,4,4,Normal,73.0,7500000
+T. Heaton,GK,Aston Villa,33,"1,88 m",92,80,80,8000000,50000,Right,3,1,Normal,74.8,6000000
+S. Kolašinac,LB,Arsenal,26,"1,83 m",85,79,82,13500000,76000,Left,2,3,Stocky,76.0,20000000
+C. Basham,CB,Sheffield Utd.,31,"1,90 m",80,73,73,3200000,25000,Right,2,2,Lean,71.0,2500000
+Jota,RW,Aston Villa,28,"1,80 m",70,73,73,4000000,46000,Left,2,3,Lean,72.0,5000000
+P. Gazzaniga,GK,Spurs,27,"1,95 m",90,75,78,6000000,50000,Right,3,1,Normal,75.2,2000000
+H. Wilson,RW,Bournemouth,22,"1,73 m",70,75,85,10500000,51000,Left,3,3,Lean,74.0,18000000
+J. Drmić,ST,Norwich,27,"1,84 m",81,75,76,8000000,46000,Right,4,3,Normal,72.0,3000000
+O. Skipp,CDM,Spurs,19,"1,75 m",70,67,86,1500000,6000,Right,3,2,Normal,65.0,8000000
+B. Godfrey,CB,Norwich,21,"1,83 m",74,71,82,3800000,18000,Right,3,2,Normal,69.0,9000000
+Y. Tielemans,CM,Leicester,22,"1,76 m",72,80,87,20500000,76000,Right,5,4,Lean,79.0,45000000
+Wesley,ST,Aston Villa,22,"1,91 m",94,79,85,17500000,61000,Right,3,3,Stocky,76.0,20000000
+J. Wilshere,CM,West Ham,27,"1,72 m",68,79,79,13000000,83000,Left,2,3,Normal,77.0,10000000
+K. Walker,RB,Man City,29,"1,83 m",70,84,84,25500000,165000,Right,2,2,Normal,82.0,50000000
+Rúben Vinagre,LB,Wolves,20,"1,74 m",64,70,84,3600000,24000,Left,2,4,Lean,67.5,10000000
+V. Lindelöf,CB,Man Utd,25,"1,87 m",80,81,87,22000000,97000,Right,4,3,Lean,80.0,35000000
+O. Nyland,GK,Aston Villa,29,"1,92 m",90,72,72,2300000,28000,Right,4,1,Normal,68.7,2000000
+R. Mahrez,RW,Man City,28,"1,79 m",67,84,84,31500000,195000,Left,4,5,Lean,83.0,60000000
+S. Armstrong,CM,Southampton,27,"1,83 m",75,75,76,7500000,46000,Right,4,3,Normal,73.0,8000000
+E. Capoue,CDM,Watford,31,"1,89 m",87,80,80,12000000,68000,Right,3,3,Lean,78.0,8000000
