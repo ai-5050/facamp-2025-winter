@@ -2,7 +2,7 @@
 
 One way to build LLM apps fast. All in pure Python. No front‑end experience required.
 
-https://streamlit.io/
+<img src="./movie/chatbot.gif">
 
 ## How to Install
 
