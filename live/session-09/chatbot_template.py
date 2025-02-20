@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("⚽️ TEST")
+st.title("⚽️ 나는 데이터로 축구한다")
 
 with st.sidebar:
     openai_api_key = st.text_input(
